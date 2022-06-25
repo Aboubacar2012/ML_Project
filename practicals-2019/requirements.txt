@@ -1,0 +1,4 @@
+# Note: These requirements are for running things locally in Juupyter.
+#       The notebooks can still be run in Colab with no setup.
+jupyter==1.0.0
+nbdime==1.1.0
